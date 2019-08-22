@@ -1,3 +1,9 @@
+
+//
+// see hubs-router.js for some riveting reading about 
+// router objects and modules, cosmonauts, and Popeye.
+//
+
 const express = require('express');
 const Hubs = require('../hubs/hubs-model.js');
 
